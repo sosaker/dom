@@ -1,0 +1,21 @@
+C:\Users\elede\source\repos\к3 2.3\к3 2.3\bin\Debug\к3 2.3.exe.config
+C:\Users\elede\source\repos\к3 2.3\к3 2.3\bin\Debug\к3 2.3.exe
+C:\Users\elede\source\repos\к3 2.3\к3 2.3\bin\Debug\к3 2.3.pdb
+C:\Users\elede\source\repos\к3 2.3\к3 2.3\obj\Debug\к3 2.3.csproj.AssemblyReference.cache
+C:\Users\elede\source\repos\к3 2.3\к3 2.3\obj\Debug\к3 2.3.csproj.CoreCompileInputs.cache
+C:\Users\elede\source\repos\к3 2.3\к3 2.3\obj\Debug\к3 2.3.exe
+C:\Users\elede\source\repos\к3 2.3\к3 2.3\obj\Debug\к3 2.3.pdb
+C:\Users\User\Desktop\unity and c#\K3 2.3Коллатца\к3 2.3\bin\Debug\к3 2.3.exe.config
+C:\Users\User\Desktop\unity and c#\K3 2.3Коллатца\к3 2.3\bin\Debug\к3 2.3.exe
+C:\Users\User\Desktop\unity and c#\K3 2.3Коллатца\к3 2.3\bin\Debug\к3 2.3.pdb
+C:\Users\User\Desktop\unity and c#\K3 2.3Коллатца\к3 2.3\obj\Debug\к3 2.3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\unity and c#\K3 2.3Коллатца\к3 2.3\obj\Debug\к3 2.3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\unity and c#\K3 2.3Коллатца\к3 2.3\obj\Debug\к3 2.3.exe
+C:\Users\User\Desktop\unity and c#\K3 2.3Коллатца\к3 2.3\obj\Debug\к3 2.3.pdb
+C:\Users\User\Desktop\Новая папка (2)\K3 2.3Коллатца\к3 2.3\bin\Debug\к3 2.3.exe.config
+C:\Users\User\Desktop\Новая папка (2)\K3 2.3Коллатца\к3 2.3\bin\Debug\к3 2.3.exe
+C:\Users\User\Desktop\Новая папка (2)\K3 2.3Коллатца\к3 2.3\bin\Debug\к3 2.3.pdb
+C:\Users\User\Desktop\Новая папка (2)\K3 2.3Коллатца\к3 2.3\obj\Debug\к3 2.3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\K3 2.3Коллатца\к3 2.3\obj\Debug\к3 2.3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\K3 2.3Коллатца\к3 2.3\obj\Debug\к3 2.3.exe
+C:\Users\User\Desktop\Новая папка (2)\K3 2.3Коллатца\к3 2.3\obj\Debug\к3 2.3.pdb

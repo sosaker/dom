@@ -1,0 +1,21 @@
+C:\Users\elede\source\repos\кдз_3\кдз_3\bin\Debug\кдз_3.exe.config
+C:\Users\elede\source\repos\кдз_3\кдз_3\bin\Debug\кдз_3.exe
+C:\Users\elede\source\repos\кдз_3\кдз_3\bin\Debug\кдз_3.pdb
+C:\Users\elede\source\repos\кдз_3\кдз_3\obj\Debug\кдз_3.csproj.AssemblyReference.cache
+C:\Users\elede\source\repos\кдз_3\кдз_3\obj\Debug\кдз_3.csproj.CoreCompileInputs.cache
+C:\Users\elede\source\repos\кдз_3\кдз_3\obj\Debug\кдз_3.exe
+C:\Users\elede\source\repos\кдз_3\кдз_3\obj\Debug\кдз_3.pdb
+C:\Users\User\Desktop\unity and c#\KDZ 3\кдз_3\bin\Debug\кдз_3.exe.config
+C:\Users\User\Desktop\unity and c#\KDZ 3\кдз_3\bin\Debug\кдз_3.exe
+C:\Users\User\Desktop\unity and c#\KDZ 3\кдз_3\bin\Debug\кдз_3.pdb
+C:\Users\User\Desktop\unity and c#\KDZ 3\кдз_3\obj\Debug\кдз_3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\unity and c#\KDZ 3\кдз_3\obj\Debug\кдз_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\unity and c#\KDZ 3\кдз_3\obj\Debug\кдз_3.exe
+C:\Users\User\Desktop\unity and c#\KDZ 3\кдз_3\obj\Debug\кдз_3.pdb
+C:\Users\User\Desktop\unity and c#\KDZ 3есть\кдз_3\bin\Debug\кдз_3.exe.config
+C:\Users\User\Desktop\unity and c#\KDZ 3есть\кдз_3\bin\Debug\кдз_3.exe
+C:\Users\User\Desktop\unity and c#\KDZ 3есть\кдз_3\bin\Debug\кдз_3.pdb
+C:\Users\User\Desktop\unity and c#\KDZ 3есть\кдз_3\obj\Debug\кдз_3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\unity and c#\KDZ 3есть\кдз_3\obj\Debug\кдз_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\unity and c#\KDZ 3есть\кдз_3\obj\Debug\кдз_3.exe
+C:\Users\User\Desktop\unity and c#\KDZ 3есть\кдз_3\obj\Debug\кдз_3.pdb

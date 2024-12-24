@@ -1,0 +1,157 @@
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\кз 7.1.exe.config
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\кз 7.1.exe
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\кз 7.1.pdb
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\obj\Debug\кз 7.1.csproj.AssemblyReference.cache
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\obj\Debug\кз 7.1.csproj.CoreCompileInputs.cache
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\obj\Debug\кз 7.1.exe
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\obj\Debug\кз 7.1.pdb
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Com.Interop.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Design.Core.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.ForEachAdoEnumerator.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.ForEachFromVarEnumerator.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.ForEachNodeListEnumerator.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.ForEachSMOEnumerator.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.IntegrationService.HadoopEnumerators.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.TransferDatabasesTask.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.XMLSrc.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\System.Spatial.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.IntegrationService.HadoopConnections.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\ru\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\ru\Microsoft.SqlServer.TransferDatabasesTask.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\ru\Microsoft.VisualStudio.TestTools.UITest.Extension.resources.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\obj\Debug\кз 7.1.csproj.Up2Date
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\xunit.abstractions.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\xunit.assert.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\xunit.core.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\xunit.execution.desktop.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\xunit.abstractions.xml
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\xunit.assert.xml
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\xunit.core.xml
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\xunit.execution.desktop.xml
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\System.Composition.Convention.dll
+C:\Users\elede\source\repos\кз 7.1\кз 7.1\bin\Debug\System.Composition.AttributedModel.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\кз 7.1.exe.config
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\кз 7.1.exe
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\кз 7.1.pdb
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.Edm.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.OData.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Com.Interop.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Design.Core.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.ForEachAdoEnumerator.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.ForEachFromVarEnumerator.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.ForEachNodeListEnumerator.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.ForEachSMOEnumerator.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.IntegrationService.HadoopEnumerators.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.TransferDatabasesTask.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.XMLSrc.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\System.Composition.Convention.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\System.Numerics.Vectors.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\xunit.abstractions.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\xunit.assert.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\xunit.core.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\xunit.execution.desktop.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\System.Spatial.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.IntegrationService.HadoopConnections.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\System.Composition.AttributedModel.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\xunit.abstractions.xml
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\xunit.assert.xml
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\xunit.core.xml
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\xunit.execution.desktop.xml
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.SqlServer.TransferDatabasesTask.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.VisualStudio.TestTools.UITest.Extension.resources.dll
+C:\github\Programms\K3_7.1\кз 7.1\obj\Debug\кз 7.1.csproj.AssemblyReference.cache
+C:\github\Programms\K3_7.1\кз 7.1\obj\Debug\кз 7.1.csproj.CoreCompileInputs.cache
+C:\github\Programms\K3_7.1\кз 7.1\obj\Debug\кз 7.1.csproj.Up2Date
+C:\github\Programms\K3_7.1\кз 7.1\obj\Debug\кз 7.1.exe
+C:\github\Programms\K3_7.1\кз 7.1\obj\Debug\кз 7.1.pdb
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\кз 7.1.exe.config
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\кз 7.1.exe
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\кз 7.1.pdb
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\System.Composition.Convention.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\xunit.abstractions.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\xunit.assert.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\xunit.core.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\xunit.execution.desktop.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\System.Spatial.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\Microsoft.SqlServer.IntegrationService.HadoopConnections.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\xunit.abstractions.xml
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\xunit.assert.xml
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\xunit.core.xml
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\xunit.execution.desktop.xml
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.SqlServer.TransferDatabasesTask.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\bin\Debug\ru\Microsoft.VisualStudio.TestTools.UITest.Extension.resources.dll
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\obj\Debug\кз 7.1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\obj\Debug\кз 7.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\obj\Debug\кз 7.1.csproj.Up2Date
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\obj\Debug\кз 7.1.exe
+C:\Users\User\Desktop\unity and c#\K3_7.1\кз 7.1\obj\Debug\кз 7.1.pdb

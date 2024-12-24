@@ -1,0 +1,36 @@
+C:\Users\elede\source\repos\дз 2.2\дз 2.2\obj\Debug\дз 2.2.csproj.AssemblyReference.cache
+C:\Users\elede\source\repos\дз 2.2\дз 2.2\obj\Debug\дз 2.2.csproj.CoreCompileInputs.cache
+C:\Users\elede\source\repos\дз 2.2\дз 2.2\bin\Debug\дз 2.2.exe.config
+C:\Users\elede\source\repos\дз 2.2\дз 2.2\bin\Debug\дз 2.2.exe
+C:\Users\elede\source\repos\дз 2.2\дз 2.2\bin\Debug\дз 2.2.pdb
+C:\Users\elede\source\repos\дз 2.2\дз 2.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\elede\source\repos\дз 2.2\дз 2.2\obj\Debug\дз 2.2.csproj.Up2Date
+C:\Users\elede\source\repos\дз 2.2\дз 2.2\obj\Debug\дз 2.2.exe
+C:\Users\elede\source\repos\дз 2.2\дз 2.2\obj\Debug\дз 2.2.pdb
+C:\github\Programms\HW 2.2\дз 2.2\bin\Debug\дз 2.2.exe.config
+C:\github\Programms\HW 2.2\дз 2.2\bin\Debug\дз 2.2.exe
+C:\github\Programms\HW 2.2\дз 2.2\bin\Debug\дз 2.2.pdb
+C:\github\Programms\HW 2.2\дз 2.2\bin\Debug\System.Numerics.Vectors.dll
+C:\github\Programms\HW 2.2\дз 2.2\obj\Debug\дз 2.2.csproj.AssemblyReference.cache
+C:\github\Programms\HW 2.2\дз 2.2\obj\Debug\дз 2.2.csproj.CoreCompileInputs.cache
+C:\github\Programms\HW 2.2\дз 2.2\obj\Debug\дз 2.2.csproj.Up2Date
+C:\github\Programms\HW 2.2\дз 2.2\obj\Debug\дз 2.2.exe
+C:\github\Programms\HW 2.2\дз 2.2\obj\Debug\дз 2.2.pdb
+C:\Users\User\Desktop\unity and c#\HW 2.2\дз 2.2\bin\Debug\дз 2.2.exe.config
+C:\Users\User\Desktop\unity and c#\HW 2.2\дз 2.2\bin\Debug\дз 2.2.exe
+C:\Users\User\Desktop\unity and c#\HW 2.2\дз 2.2\bin\Debug\дз 2.2.pdb
+C:\Users\User\Desktop\unity and c#\HW 2.2\дз 2.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\unity and c#\HW 2.2\дз 2.2\obj\Debug\дз 2.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\unity and c#\HW 2.2\дз 2.2\obj\Debug\дз 2.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\unity and c#\HW 2.2\дз 2.2\obj\Debug\дз 2.2.csproj.Up2Date
+C:\Users\User\Desktop\unity and c#\HW 2.2\дз 2.2\obj\Debug\дз 2.2.exe
+C:\Users\User\Desktop\unity and c#\HW 2.2\дз 2.2\obj\Debug\дз 2.2.pdb
+C:\Users\User\Desktop\Новая папка (2)\HW 2.2факториал фибонначи\дз 2.2\bin\Debug\дз 2.2.exe.config
+C:\Users\User\Desktop\Новая папка (2)\HW 2.2факториал фибонначи\дз 2.2\bin\Debug\дз 2.2.exe
+C:\Users\User\Desktop\Новая папка (2)\HW 2.2факториал фибонначи\дз 2.2\bin\Debug\дз 2.2.pdb
+C:\Users\User\Desktop\Новая папка (2)\HW 2.2факториал фибонначи\дз 2.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Новая папка (2)\HW 2.2факториал фибонначи\дз 2.2\obj\Debug\дз 2.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\HW 2.2факториал фибонначи\дз 2.2\obj\Debug\дз 2.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\HW 2.2факториал фибонначи\дз 2.2\obj\Debug\дз 2.2.csproj.Up2Date
+C:\Users\User\Desktop\Новая папка (2)\HW 2.2факториал фибонначи\дз 2.2\obj\Debug\дз 2.2.exe
+C:\Users\User\Desktop\Новая папка (2)\HW 2.2факториал фибонначи\дз 2.2\obj\Debug\дз 2.2.pdb

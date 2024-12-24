@@ -1,0 +1,7 @@
+C:\Users\elede\source\repos\Дз__1.1\Дз__1.1\bin\Debug\Дз__1.1.exe.config
+C:\Users\elede\source\repos\Дз__1.1\Дз__1.1\bin\Debug\Дз__1.1.exe
+C:\Users\elede\source\repos\Дз__1.1\Дз__1.1\bin\Debug\Дз__1.1.pdb
+C:\Users\elede\source\repos\Дз__1.1\Дз__1.1\obj\Debug\Дз__1.1.csproj.AssemblyReference.cache
+C:\Users\elede\source\repos\Дз__1.1\Дз__1.1\obj\Debug\Дз__1.1.csproj.CoreCompileInputs.cache
+C:\Users\elede\source\repos\Дз__1.1\Дз__1.1\obj\Debug\Дз__1.1.exe
+C:\Users\elede\source\repos\Дз__1.1\Дз__1.1\obj\Debug\Дз__1.1.pdb

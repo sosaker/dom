@@ -1,0 +1,14 @@
+C:\Users\elede\source\repos\к3 2.4\к3 2.4\bin\Debug\к3 2.4.exe.config
+C:\Users\elede\source\repos\к3 2.4\к3 2.4\bin\Debug\к3 2.4.exe
+C:\Users\elede\source\repos\к3 2.4\к3 2.4\bin\Debug\к3 2.4.pdb
+C:\Users\elede\source\repos\к3 2.4\к3 2.4\obj\Debug\к3 2.4.csproj.AssemblyReference.cache
+C:\Users\elede\source\repos\к3 2.4\к3 2.4\obj\Debug\к3 2.4.csproj.CoreCompileInputs.cache
+C:\Users\elede\source\repos\к3 2.4\к3 2.4\obj\Debug\к3 2.4.exe
+C:\Users\elede\source\repos\к3 2.4\к3 2.4\obj\Debug\к3 2.4.pdb
+C:\Users\User\Desktop\unity and c#\K3 2.4\к3 2.4\bin\Debug\к3 2.4.exe.config
+C:\Users\User\Desktop\unity and c#\K3 2.4\к3 2.4\bin\Debug\к3 2.4.exe
+C:\Users\User\Desktop\unity and c#\K3 2.4\к3 2.4\bin\Debug\к3 2.4.pdb
+C:\Users\User\Desktop\unity and c#\K3 2.4\к3 2.4\obj\Debug\к3 2.4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\unity and c#\K3 2.4\к3 2.4\obj\Debug\к3 2.4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\unity and c#\K3 2.4\к3 2.4\obj\Debug\к3 2.4.exe
+C:\Users\User\Desktop\unity and c#\K3 2.4\к3 2.4\obj\Debug\к3 2.4.pdb
